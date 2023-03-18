@@ -6,8 +6,11 @@ Bella Davies - bjdavies@bu.edu
 Tia Hannah - thannah@bu.edu
 
 Rheona Mehta
+
 Tony Zhang
+
 Rebecca
+
 Neri
 
 ## Background 
