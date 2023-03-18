@@ -1,4 +1,5 @@
 # Predicting Food Waste from Catered Events 
+https://recyclingworksma.com/food-waste-estimation-guide/
 
 ## Team
 Bella Davies - bjdavies@bu.edu
@@ -7,7 +8,7 @@ Tia Hannah - thannah@bu.edu
 
 Rheona Mehta
 
-Tony Zhang
+Tony Zhang 
 
 Rebecca rebwww@bu.edu
 
