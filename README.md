@@ -8,7 +8,7 @@ Tia Hannah - thannah@bu.edu
 
 Rheona Mehta - rhemehta@bu.edu
 
-Tony Zhang 
+Tony Zhang - tonydqz@bu.edu
 
 Rebecca - rebwww@bu.edu
 
