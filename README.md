@@ -5,7 +5,7 @@ Bella Davies - bjdavies@bu.edu
 
 Tia Hannah - thannah@bu.edu
 
-Rheona Mehta
+Rheona Mehta - rhemehta@bu.edu
 
 Tony Zhang
 
