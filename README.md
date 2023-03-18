@@ -1,5 +1,6 @@
 # Predicting Food Waste from Catered Events 
-
+https://recyclingworksma.com/food-waste-estimation-guide/
+https://recyclingworksma.com/wp-content/uploads/2020/06/2022-Venues-and-Events.pdf
 ## Team
 Bella Davies - bjdavies@bu.edu
 
@@ -7,7 +8,7 @@ Tia Hannah - thannah@bu.edu
 
 Rheona Mehta - rhemehta@bu.edu
 
-Tony Zhang
+Tony Zhang 
 
 Rebecca - rebwww@bu.edu
 
