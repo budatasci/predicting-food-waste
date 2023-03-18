@@ -12,7 +12,7 @@ Tony Zhang
 
 Rebecca - rebwww@bu.edu
 
-Neri
+Neri - najitas@bu.edu
 
 ## Background 
 The state of Massachusetts has a ban on commercial food waste disposal (does not include residential) based on a weekly threshold of half a ton. BU Sustainability has been working to determine the impact of catering practices on the buildings and their compliance with this waste ban. They are looking to expand their efforts to other buildings that may be impacted and how many catered events would push them above the threshold.
