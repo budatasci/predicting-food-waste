@@ -24,5 +24,8 @@ Can you determine how many staffed catered events and/or drop & go catered event
 ```
 ├── data # summary of data and csv files                
 ├── submissions # add your submission here 
+│   ├── dataexploration
+│   ├── Regression Prediction
+│   └── kmeans 
 └── README.ME
 ```
