@@ -1,1 +1,4 @@
-
+- Akshaya Bali - abali@bu.edu
+- Sarah Bonna - sbonna@bu.edu
+- Shivangi - shivi09@bu.edu
+- Showndarya Madhavan - shmadhav@bu.edu
