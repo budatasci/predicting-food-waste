@@ -20,6 +20,9 @@ The state of Massachusetts has a ban on commercial food waste disposal (does not
 ## Objective 
 Can you determine how many staffed catered events and/or drop & go catered events would push a building over the ½ ton food waste ban threshold?
 
+## Method
+Uses Python Programming Language to run the machine learning algorithms of regression and k-means on the original dataset provided by BU Catering which provides information on catering events in different buildings across campus. Uses different factors like event duration and number of guests to predict the amount of waste generated from each event in order to predict how many events would cause a building to exceed the threshold. 
+
 ## Structure 
 ```
 ├── data # summary of data and csv files                
